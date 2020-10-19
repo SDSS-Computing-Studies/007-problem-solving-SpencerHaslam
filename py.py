@@ -1,3 +1,4 @@
 #!python3
-import pyautogui 
-pyautogui.onScreen()
+import pyautogui as p
+
+p.mouseInfo()
